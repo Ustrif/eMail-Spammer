@@ -1,1 +1,1 @@
-data = {"ver": 1.0, "main": True}
+data = {"ver": 1.1, "main": True}
