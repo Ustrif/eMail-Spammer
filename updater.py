@@ -1,1 +1,1 @@
-#1.1_true
+data = {"ver": 1.0, "main": True}
