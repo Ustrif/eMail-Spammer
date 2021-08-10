@@ -1,1 +1,1 @@
-data = {"ver": 1.1, "main": True}
+{"ver": 1.1, "main": True}
